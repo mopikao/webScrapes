@@ -6,11 +6,11 @@ now = datetime.now()
 dt_string = now.strftime("%d/%m %H:%M")
 print("Updated at "+dt_string)
 
-urls = ['https://www.straitstimes.com/news/singapore/rss.xml',
-        'https://www.straitstimes.com/news/world/rss.xml'
+urls = ['https://gizmodo.com/rss',
+        'http://feeds2.feedburner.com/thenextweb'
     ]
 
-textFile = open("straitsTimes.txt","w",encoding="utf-8")
+textFile = open("techText.txt","w",encoding="utf-8")
 textFile.write("Updated at "+ dt_string + "\n")
 
 for url in urls:
