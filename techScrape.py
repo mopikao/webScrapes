@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import feedparser
 from datetime import datetime
 # https://github.com/martinmeinke/MMM-display-text-file
