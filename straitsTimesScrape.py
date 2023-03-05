@@ -2,6 +2,7 @@
 
 import feedparser
 from datetime import datetime
+# https://github.com/SaltyRiver/MMM-SimpleText
 # https://github.com/martinmeinke/MMM-display-text-file
 
 now = datetime.now()

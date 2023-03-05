@@ -1,15 +1,4 @@
-Updated at 25/02 14:36
-
-☉ A Software Bug Caused Two Alaska Airlines Flights to Suffer Tailstrikes on the Same Morning
-☉ Phil Tippett Inspired This Week's Poker Face—and Here Are All the Awesome Creations
-☉ Ant-man’s Director on *That* End Credits Scene
-☉ A Guide to the Messy, Divided Rights to The Lord of the Rings
-☉ Vast Acquires Rocket Engine Firm to Speed Development of Space Station With Artificial Gravity
-☉ Everything We Know About OpenAI's ChatGPT
-☉ The Latest News From Disney Parks, Universal Studios Resorts, and More Fan-tastical Destinations
-☉ The Pros and Cons of Repairing Your Own Gadgets
-☉ Live Nation Puts Fixing Ticket Sales on Performers and Lawmakers
-☉ How To Print Anything From Your Phone or Tablet, No Laptop Required
+Updated at 25/02 14:41
 
 ☉ Ukraine’s year of war exposes changing roles for cyber weapons
 ☉ European Space Agency unveils new plan for growing plants on the Moon
@@ -21,3 +10,14 @@ Updated at 25/02 14:36
 ☉ Why US-based unicorn HackerOne keeps their dev team in Groningen
 ☉ Values of European unicorns plunge amid sharp fall in public markets
 ☉ Studies show women are less likely to apply for jobs at male-dominated startups
+
+☉ A Software Bug Caused Two Alaska Airlines Flights to Suffer Tailstrikes on the Same Morning
+☉ Phil Tippett Inspired This Week's Poker Face—and Here Are All the Awesome Creations
+☉ Ant-man’s Director on *That* End Credits Scene
+☉ A Guide to the Messy, Divided Rights to The Lord of the Rings
+☉ Vast Acquires Rocket Engine Firm to Speed Development of Space Station With Artificial Gravity
+☉ Everything We Know About OpenAI's ChatGPT
+☉ The Latest News From Disney Parks, Universal Studios Resorts, and More Fan-tastical Destinations
+☉ The Pros and Cons of Repairing Your Own Gadgets
+☉ Live Nation Puts Fixing Ticket Sales on Performers and Lawmakers
+☉ How To Print Anything From Your Phone or Tablet, No Laptop Required

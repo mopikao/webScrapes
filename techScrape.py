@@ -2,14 +2,16 @@
 
 import feedparser
 from datetime import datetime
+# https://github.com/SaltyRiver/MMM-SimpleText
 # https://github.com/martinmeinke/MMM-display-text-file
 
 now = datetime.now()
 dt_string = now.strftime("%d/%m %H:%M")
 print("Updated at "+dt_string)
 
-urls = ['https://gizmodo.com/rss',
-        'http://feeds2.feedburner.com/thenextweb'
+urls = ['http://feeds2.feedburner.com/thenextweb',
+        'https://gizmodo.com/rss'
+
     ]
 
 textFile = open("techText.txt","w",encoding="utf-8")
