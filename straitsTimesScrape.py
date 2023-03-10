@@ -10,7 +10,9 @@ dt_string = now.strftime("%d/%m %H:%M")
 print("Updated at "+dt_string)
 
 urls = ['https://www.straitstimes.com/news/singapore/rss.xml',
-        'https://www.straitstimes.com/news/world/rss.xml'
+        'https://www.straitstimes.com/news/world/rss.xml',
+        'http://feeds2.feedburner.com/thenextweb',
+        'https://gizmodo.com/rss'
     ]
 
 textFile = open("straitsTimes.txt","w",encoding="utf-8")
